@@ -1,5 +1,5 @@
 <div align="center">
-<img src= "./Ahmad.jped" alt="image" width="250px"/>
+<img src= "./Ahmad.jped" alt="image" width="300px"/>
   <h1>👋 Hi, I'm Ahmad Mohammadi | Frontend Developer</h1>
 
   <p> <h3>🚀 About Me <br></h3>

@@ -8,6 +8,11 @@
 🎯 Passionate about learning new web technologies <br>
 💡 Focused on responsive and accessible design <br>
 🧠 Continuously improving my frontend skills
+<hr>
+<h3>📬 Connect With Me</h3>
+<br>
+💼 GitHub: https://github.com/ahmad-mohammadi2032 <br>
+📧 Email: ahmad.mohammadi5610@gmail.com
   
 </div>
 

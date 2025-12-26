@@ -3,4 +3,10 @@
   <p> <h3>🚀 About Me <br></h3>
     
   I'm Ahmad Mohammadi, a Frontend Deverloper who enjoys creating clean, fast, and user-friendly interfaces. I pay close attention to detail when implementing UI designs, care deeply about user experiece, and always aim to write  clear, maintainalbe code.</p>
+
+🎯 Passionate about learning new web technologies
+
+💡 Focused on modern and responsive design
+
+🧠 Continuously improving my JavaScript and frontend frameworks skills
 </div>

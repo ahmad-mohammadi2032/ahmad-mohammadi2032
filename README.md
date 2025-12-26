@@ -13,6 +13,10 @@
 <br>
 💼 GitHub: https://github.com/ahmad-mohammadi2032 <br>
 📧 Email: ahmad.mohammadi5610@gmail.com
+<hr>
+First, solve the problem. Then, write the code. — Ahmad Mohammadi
+
+⭐ If you like my profile or projects, feel free to give them a star!
   
 </div>
 

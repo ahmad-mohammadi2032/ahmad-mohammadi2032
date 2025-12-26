@@ -1,2 +1,5 @@
-# Hi! My name is Ahmad Mohammadi
-## I Am Frontend Programmer An I'm Learning HTML & CSS & JS
+<div align="center">
+  <h1>👋 Hi, I'm Ahmad Mohammadi | Frontend Developer</h1>
+  <p>🚀 About Me 
+  I'm Ahmad Mohammadi, a Frontend Deverloper who enjoys creating clean, fast, and user-friendly interfaces. I pay close attention to detail when implementing UI designs, care deeply about user experiece, and always aim to write  clear, maintainalbe code.</p>
+</div>

@@ -22,7 +22,7 @@ First, solve the problem. Then, write the code. — Ahmad Mohammadi
 </div>
 <br>
 <h3>🚀 Skills & Technologies</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github&theme=light&perline=3"/>
 
 
 

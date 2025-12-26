@@ -20,6 +20,9 @@ First, solve the problem. Then, write the code. — Ahmad Mohammadi
 ⭐ If you like my profile or projects, feel free to give them a star!
   
 </div>
+<br>
+<h3>🚀 Skills & Technologies</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github" alt="languages"/>
 
 
 

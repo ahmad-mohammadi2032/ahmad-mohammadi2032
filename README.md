@@ -13,7 +13,7 @@
 <h3>📬 Connect With Me</h3>
 <br>
 💼 GitHub: https://github.com/ahmad-mohammadi2032 <br>
-📧 Email: ahmad.mohammadi5610@gmail.com
+📧 Email: ahmad.mohammadi2032@gmail.com
 <hr>
 First, solve the problem. Then, write the code. — Ahmad Mohammadi
 
